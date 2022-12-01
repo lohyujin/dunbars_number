@@ -7,4 +7,4 @@ Suggest a cognitive limit to the number of connection one can maintain a stable 
 
 Evidently, 150 is the magic number.
 
-![This is an image](Dunbar's Number.png)
+![](Dunbar's Number.png)
